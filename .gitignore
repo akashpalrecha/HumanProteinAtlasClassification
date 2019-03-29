@@ -1,0 +1,10 @@
+data/data/
+data/Models/
+data/Models_Stratified/
+data/Models_Stratified_4_channel/
+data/test/
+data/test.zip
+data/train.zip
+data/train/
+!data/demonstration
+__pycache__
