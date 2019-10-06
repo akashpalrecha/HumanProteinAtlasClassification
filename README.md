@@ -1,6 +1,6 @@
 # Human Protein Atlas Image Classification
 
-This project is my attempt at the Human Protein Atlas Classification competition on Kaggle.
+This project is my attempt at the [Human Protein Atlas Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) competition on Kaggle.
 To make the model work better, I've used multiple approaches and optimizations such as:
 1. Multilabel stratification
 2. 4 channel Resnets
